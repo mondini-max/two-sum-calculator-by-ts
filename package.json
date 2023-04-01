@@ -4,7 +4,7 @@
   "description": "sum calculator by ts",
   "main": "index.js",
   "scripts": {
-    "start": "npx tsc index.ts"
+    "start": "tsc index.ts"
   },
   "author": "Maxime Mondini <mh-mondini@hotmail.com>",
   "license": "MIT",

@@ -1,0 +1,14 @@
+{
+  "name": "sum-calculator",
+  "version": "1.0.0",
+  "description": "sum calculator by ts",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc index.ts"
+  },
+  "author": "Maxime Mondini <mh-mondini@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}

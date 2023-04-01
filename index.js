@@ -8,6 +8,7 @@ const sum = (num1, num2) => num1 + num2;
 
 button.addEventListener('click', (event) => {
   event.preventDefault();
-  console.log(sum(1, 2));
-  resultBox.textContent = 'new';
+
+  result = sum(input1.value, input2.value);
+  resultBox.textContent = result;
 });
